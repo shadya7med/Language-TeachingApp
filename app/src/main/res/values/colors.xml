@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#4a312A</color>
+    <color name="colorPrimaryDark">#2F1D1A</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="mainLayout">#FFF7DA</color>
+    <color name="NumbersButton">#FD8E09</color>
+    <color name="ColorsButton">#8800A0</color>
+    <color name="FamilyMemberButton">#378237</color>
+    <color name="PhrasesButton">#16AFCA</color>
+    <color name="textColor">#FFFFFF</color>
+
+</resources>
